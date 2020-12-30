@@ -1,6 +1,7 @@
 package BytLab09;
 
 import java.io.BufferedWriter;
+import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.net.URL;
@@ -48,7 +49,10 @@ public class Website implements Subject {
 
             String nState = nMemento.getObserver()+" "+nMemento.getState().toString();
 
-            BufferedWriter writer = new BufferedWriter(new FileWriter("D:\\Dersler\\BYT\\BytLab\\src\\BytLab09\\states"));
+            String directory=System.getProperty("user.dir");
+            String sample=directory+ File.separator+"dates.txt";
+
+            BufferedWriter writer = new BufferedWriter(new FileWriter(sample));
             writer.append(nState);
             writer.close();
 

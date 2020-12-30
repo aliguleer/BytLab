@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e0445cd-ab76-4435-b43e-13a839bd8912" name="Default Changelist" comment="" />
+    <list default="true" id="1e0445cd-ab76-4435-b43e-13a839bd8912" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +23,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
@@ -34,6 +39,8 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/BytLab9" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15332031" />
     <property name="project.structure.side.proportion" value="0.40069285" />
@@ -158,10 +165,10 @@
       <screen x="1920" y="69" width="1920" height="1040" />
     </state>
     <state x="2610" y="335" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/64.0.1856.1080/1920.69.1920.1040@1920.69.1920.1040" timestamp="1609338952299" />
-    <state x="2586" y="330" key="FileChooserDialogImpl" timestamp="1609347838600">
+    <state x="2586" y="330" key="FileChooserDialogImpl" timestamp="1609350476234">
       <screen x="1920" y="69" width="1920" height="1040" />
     </state>
-    <state x="2586" y="330" key="FileChooserDialogImpl/64.0.1856.1080/1920.69.1920.1040@1920.69.1920.1040" timestamp="1609347838600" />
+    <state x="2586" y="330" key="FileChooserDialogImpl/64.0.1856.1080/1920.69.1920.1040@1920.69.1920.1040" timestamp="1609350476234" />
     <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1609350251794">
       <screen x="1920" y="69" width="1920" height="1040" />
     </state>
